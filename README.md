@@ -41,6 +41,12 @@ Passionate about **Software Engineering / AI & LLM Applications / Healthcare Tec
 * **Key Features:** Voice feature extraction, audio signal classification, automated preliminary risk assessment.
 * **Tech Stack:** Python, Audio Processing Libraries (Librosa/Torchaudio), Deep Learning Models, FastAPI.
 
+### 🎓 [Professor Course Admin System (TQF 3 / TQF 5)]
+> *University Course Outcome & Administration Platform*
+* **Overview:** An administrative management system designed for professors to streamline course specification documentation (TQF 3) and end-of-semester evaluation reports (TQF 5).
+* **Key Features:** Course Learning Outcomes (CLO) tracking, relational database schema for curriculum workflows, dynamic PDF/document reporting, and containerized deployment.
+* **Tech Stack:** Docker, Relational Database (PostgreSQL/MySQL), Backend APIs, System Integration.
+
 ### 💬 [Smart AI Chatbot Platform]
 > *Conversational AI Agent & Knowledge Base System*
 * **Overview:** An intelligent chatbot built to process user inquiries, retrieve context-aware answers, and automate routine user interactions.
