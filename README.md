@@ -54,6 +54,3 @@ Passionate about **Software Engineering / AI & LLM Applications / Healthcare Tec
 * **Tech Stack:** Python, LangChain , OpenAI API, Vector Databases, Docker.
 
 ---
-
-## 📫 How to Reach Me
-* **Email:** worrasat.jarasjarutouth@gmail.com
