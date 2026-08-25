@@ -3,6 +3,31 @@
 Computer Science Student @ Thammasat University 🇹🇭  
 Passionate about **Software Engineering / AI & LLM Applications / Healthcare Tech**
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=gold555555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=gold555555&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gold555555&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gold555555&theme=tokyonight&hide_border=true" />
+</p>
+</p>
+
 ---
 
 ## 🚀 What I'm Up To
