@@ -3,30 +3,23 @@
 Computer Science Student @ Thammasat University 🇹🇭  
 Passionate about **Software Engineering / AI & LLM Applications / Healthcare Tech**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=gold555555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=gold555555&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gold555555&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gold555555&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=gold555555&theme=tokyonight&hide_border=true" />
 </p>
-</p>
+
+
+<table border="0" width="100%" align = "center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=gold555555&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gold555555&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    </td>
+  </tr>
+</table>
 
 ---
 
